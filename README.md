@@ -1,2 +1,2 @@
 # Alarm_Clock
-Alarm clock project for coding ninja skill test
+Alarm clock project for coding ninja skill test for frontend
